@@ -43,7 +43,7 @@
         <baomidou.dynamicdatasource.version>2.5.6</baomidou.dynamicdatasource.version>
         <baomidou.lock4j.version>1.0.0</baomidou.lock4j.version>
         <bomidou.jobs.version>1.0.3</bomidou.jobs.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <spring.boot.admin.verion>2.1.6</spring.boot.admin.verion>
         <springfox.swagger2.verion>2.7.0</springfox.swagger2.verion>
         <springfox.swagger-ui.verion>2.7.0</springfox.swagger-ui.verion>
