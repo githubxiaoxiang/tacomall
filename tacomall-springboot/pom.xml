@@ -47,7 +47,7 @@
         <mybatisplus.boot.starter.version>3.1.0</mybatisplus.boot.starter.version>
         <bomidou.jobs.version>1.0.3</bomidou.jobs.version>
         <baomidou.mybatisplusgenerator.version>3.3.0</baomidou.mybatisplusgenerator.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <lombok.version>1.16.20</lombok.version>
         <javajwt.version>3.4.0</javajwt.version>
         <joda.time.version>2.9.9</joda.time.version>
